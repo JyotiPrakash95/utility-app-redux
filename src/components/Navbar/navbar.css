@@ -1,0 +1,10 @@
+
+
+.nav-item{
+    width:70px;
+}
+.navbar{
+        position: sticky;
+    top: 0;
+    width: 100%;
+}
